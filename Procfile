@@ -1,1 +1,1 @@
-web: python manage.py runserver immense-sea-21244:$PORT
+web: python manage.py runserver immense-sea-21244.herokuapp.com/:$PORT
