@@ -1,3 +1,1 @@
-ENV PORT 8080
-
-web: python RealestateApi/manage.py runserver https://immense-sea-21244.herokuapp.com:$PORT/
+web: python RealestateApi/manage.py runserver immense-sea-21244.herokuapp.com:80 --noreload
