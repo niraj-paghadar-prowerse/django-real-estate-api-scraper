@@ -1,1 +1,1 @@
-web: python RealestateApi/manage.py runserver immense-sea-21244.herokuapp.com:80 --noreload
+web: python RealestateApi/manage.py runserver 127.0.0.1:8000
