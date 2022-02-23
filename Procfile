@@ -1,1 +1,1 @@
-web: python RealestateApi/manage.py runserver 0.0.0.0:$PORT
+web: python RealestateApi/manage.py runserver immense-sea-21244.herokuapp.com:$PORT
