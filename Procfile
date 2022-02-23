@@ -1,1 +1,1 @@
-web: python RealestateApi/manage.py runserver 0:8000
+web: python RealestateApi/manage.py runserver
