@@ -1,1 +1,1 @@
-web: python website/manage.py runserver 0.0.0.0:$PORT
+web: python manage.py runserver immense-sea-21244:$PORT
